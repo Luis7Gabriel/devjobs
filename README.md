@@ -4,18 +4,22 @@ Este projeto é uma aplicação web que simula a busca por vagas de desenvolvedo
 
 
 *Tecnologias utilizadas*
+
 .React
 .JavaScript
 .Vite
 
 *Funcionalidade principal*
+
 O sistema permite ao usuário buscar vagas de desenvolvimento em diferentes categorias e localidades, simulando um serviço real de busca de emprego, de acordo com seu nível e linguagem preferida.
 
 
 *API utilizada*
+
 Para buscar as vagas, o projeto utiliza a API JSearch, disponível na plataforma RapidAPI. Essa API fornece dados reais de vagas, o que torna a aplicação funcional e dinâmica.
 
 *Como rodar o projeto*
+
 Clone este repositório.
 
 Acesse o site RapidAPI e crie uma conta gratuita.
