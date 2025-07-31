@@ -1,4 +1,5 @@
 *Projeto de Busca por Vagas Dev*
+
 Este projeto é uma aplicação web que simula a busca por vagas de desenvolvedor. A interface é construída utilizando React e JavaScript, com Vite como ferramenta de build e bundling.
 
 
